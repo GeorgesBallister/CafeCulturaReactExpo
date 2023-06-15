@@ -1,5 +1,7 @@
 # CafeCulturaReactExpo
 
+<img align="center" alt="Logo do projeto" height="150" src="https://user-images.githubusercontent.com/116905222/229333731-92af46e7-cd48-4561-824a-4d1523148154.png">
+
 O aplicativo "Café Cultura" foi desenvolvido como parte das atividades da disciplina de Mobile do curso de Análise e Desenvolvimento de Projetos da renomada instituição educacional, Faculdade Senac. O objetivo principal do projeto é criar uma plataforma que permita o mapeamento e a localização das cafeterias na cidade do Recife, proporcionando aos usuários uma experiência única ao explorar a cultura do café na região.
 
 
