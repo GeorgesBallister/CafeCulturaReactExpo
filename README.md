@@ -17,6 +17,7 @@ Para funcionamento da aplicação, é necessário seguir os seguintes passos:
 - Execução do Aplicativo React/Expo:
   1. Executar o comando 'npm start' na pasta do projeto React/Expo;
   2. Scanear o QR code ou abrir o projeto no navegador.
+(É recomendado enviar para o banco as informações do "dadosBD.json" pelo "Postman" ou "Thunder Client"(extensão vscode) para melhor visualização do app.)
 ———————————————————————————————————————————
 Funcionalidades pendentes:
 - Pesquisa;
