@@ -5,6 +5,26 @@
 O aplicativo "Café Cultura" foi desenvolvido como parte das atividades da disciplina de Mobile do curso de Análise e Desenvolvimento de Projetos da renomada instituição educacional, Faculdade Senac. O objetivo principal do projeto é criar uma plataforma que permita o mapeamento e a localização das cafeterias na cidade do Recife, proporcionando aos usuários uma experiência única ao explorar a cultura do café na região.
 
 
+## Execução e Funcionamento da Aplicação
+Para funcionamento da aplicação, é necessário seguir os seguintes passos:
+- Configuração do Projeto:
+  1. Abrir a pasta base do projeto no terminal;
+  2. Executar o comando 'npm install';
+  3. Repetir para a pasta base da API do projeto.
+- Configuração e Execução da API:
+  1. Mudar a connection string do MongoDB no app.js para 'http://127.0.0.1:(porta do MongoDB, geralmente 27017)';
+  2. Executar o comando 'node app.js' na pasta do back-end para rodar a API.
+- Execução do Aplicativo React/Expo:
+  1. Executar o comando 'npm start' na pasta do projeto React/Expo;
+  2. Scanear o QR code ou abrir o projeto no navegador.
+———————————————————————————————————————————
+Funcionalidades pendentes:
+- Pesquisa;
+- Filtro por categoria;
+- Visualização dos perfis de cada cafeteria;
+
+
+
 ## Tecnologias
 
 Para o desenvolvimento do aplicativo Café Cultura, foram empregadas diversas tecnologias modernas e poderosas. A base do projeto foi construída utilizando React Native, uma biblioteca de JavaScript amplamente reconhecida por sua eficiência e facilidade de uso para a criação de aplicativos móveis. Além disso, o Android Studio foi utilizado como uma ferramenta auxiliar essencial para o desenvolvimento da versão Android do aplicativo.
