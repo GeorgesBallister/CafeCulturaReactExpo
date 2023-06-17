@@ -12,7 +12,7 @@ Para funcionamento da aplicação, é necessário seguir os seguintes passos:
   2. Executar o comando 'npm install';
   3. Repetir para a pasta base da API do projeto.
 - Configuração e Execução da API:
-  1. Mudar a connection string do MongoDB no app.js para 'http://127.0.0.1:(porta do MongoDB, geralmente 27017)';
+  1. Mudar a connection string do MongoDB no app.js para 'mongodb://127.0.0.1:27017/' (27017 é a porta padrão do MongoDB, altere caso necessário.);
   2. Executar o comando 'node app.js' na pasta do back-end para rodar a API.
 - Execução do Aplicativo React/Expo:
   1. Executar o comando 'npm start' na pasta do projeto React/Expo;
